@@ -8,6 +8,8 @@
 0.0.0.0 metrics3.data.hicloud.com
 0.0.0.0 liftoff-creatives.io
 0.0.0.0 eeyeful.com
+0.0.0.0 asia-st-sl.vivoglobal.com
+0.0.0.0 tr-st-sl.vivoglobal.com
 
 #DOH
 0.0.0.0 firefox.dns.nextdns.io
