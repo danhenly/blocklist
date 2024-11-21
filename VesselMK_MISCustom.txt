@@ -4,6 +4,10 @@
 0.0.0.0 sentry-cdn.com
 0.0.0.0 app-measurement.com
 0.0.0.0 appsflyersdk.com
+0.0.0.0 shalltry.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 liftoff-creatives.io
+0.0.0.0 eeyeful.com
 
 #DOH
 0.0.0.0 firefox.dns.nextdns.io
