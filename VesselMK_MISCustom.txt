@@ -11,6 +11,7 @@
 0.0.0.0 rec-honor-sgp.eeyeful.com
 0.0.0.0 asia-st-sl.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
+0.0.0.0 cdn.office.net
 
 #DOH
 0.0.0.0 firefox.dns.nextdns.io
