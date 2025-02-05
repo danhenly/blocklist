@@ -15,6 +15,7 @@
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 mp.microsoft.com
 0.0.0.0 cmz56k3w.com
+0.0.0.0 4230320.com
 
 #DOH
 0.0.0.0 firefox.dns.nextdns.io
