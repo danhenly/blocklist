@@ -12,6 +12,8 @@
 0.0.0.0 asia-st-sl.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
 0.0.0.0 cdn.office.net
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 mp.microsoft.com
 
 #DOH
 0.0.0.0 firefox.dns.nextdns.io
