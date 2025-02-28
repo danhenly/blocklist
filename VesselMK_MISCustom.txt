@@ -16,6 +16,7 @@
 0.0.0.0 mp.microsoft.com
 0.0.0.0 cmz56k3w.com
 0.0.0.0 4230320.com
+0.0.0.0 maxvideodownloader.com
 
 #DOH
 0.0.0.0 firefox.dns.nextdns.io
