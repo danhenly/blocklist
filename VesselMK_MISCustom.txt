@@ -315,6 +315,16 @@
 0.0.0.0	47.252.102.50
 0.0.0.0	47.252.50.101
 0.0.0.0	47.252.50.157
+0.0.0.0	search19-normal-alisg.tiktokv.co
+0.0.0.0	search19-normal-alisg.tiktokv.com
+0.0.0.0	v3.tiktokcdn.com
+0.0.0.0	tnc0-normal-useast1a.tiktokv.com
+0.0.0.0	pull-f5-tt03.tiktokcdn.com
+0.0.0.0	pull-o5-gcp01.tiktokcdn.com
+0.0.0.0	pull-hls-f77-sg01.tiktokcdn.com
+0.0.0.0	pull-lls-l11.tiktokcdn.com
+0.0.0.0	sf16-ies-music-sg.tiktokcdn.com
+0.0.0.0	pull-q5-sg01.tiktokcdn.com
 0.0.0.0	api.tiktokv.com
 0.0.0.0	api21-h2.tiktokv.com
 0.0.0.0	api-h2.tiktokv.com
